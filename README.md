@@ -3,7 +3,7 @@
 # Xác nhận số dư sổ tiết kiệm là một văn bản do ngân hàng cung cấp, chứng minh rằng khách hàng đang sở hữu một khoản tiền cụ thể trong sổ tiết kiệm tại thời điểm xác nhận. Đây không chỉ là hình thức xác minh tài sản mà còn là điều kiện quan trọng trong nhiều giao dịch như vay vốn, xin visa, chứng minh năng lực tài chính…
 
 # 
-
+Xem thêm: https://dichvutaichinh.vn/xac-nhan-so-du-so-tiet-kiem-ngan-hang.html
 # Xác nhận số dư sổ tiết kiệm là gì?
 
 # Là giấy tờ được ngân hàng phát hành, ghi rõ thông tin về chủ tài khoản, số dư sổ tiết kiệm, thời hạn gửi, lãi suất, ngày đáo hạn... Tài liệu này có giá trị xác thực và thường được sử dụng để:
